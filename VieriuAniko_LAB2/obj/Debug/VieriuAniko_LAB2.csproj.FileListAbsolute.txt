@@ -1,0 +1,11 @@
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\bin\Debug\VieriuAniko_LAB2.exe.config
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\bin\Debug\VieriuAniko_LAB2.exe
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\bin\Debug\VieriuAniko_LAB2.pdb
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.csproj.AssemblyReference.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.Form1.resources
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.Properties.Resources.resources
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.csproj.GenerateResource.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.exe
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.pdb
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\VieriuAniko_LAB2\obj\Debug\VieriuAniko_LAB2.exe.config
