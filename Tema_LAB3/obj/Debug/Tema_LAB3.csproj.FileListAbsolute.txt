@@ -1,0 +1,11 @@
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\bin\Debug\Tema_LAB3.exe.config
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\bin\Debug\Tema_LAB3.exe
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\bin\Debug\Tema_LAB3.pdb
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.csproj.AssemblyReference.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.Form1.resources
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.Properties.Resources.resources
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.csproj.GenerateResource.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.exe
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.pdb
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB3\obj\Debug\Tema_LAB3.exe.config
