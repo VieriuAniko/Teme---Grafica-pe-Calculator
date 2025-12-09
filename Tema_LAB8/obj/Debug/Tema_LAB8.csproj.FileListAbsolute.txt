@@ -1,0 +1,11 @@
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.csproj.AssemblyReference.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.Form1.resources
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.Properties.Resources.resources
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.csproj.GenerateResource.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.csproj.CoreCompileInputs.cache
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\bin\Debug\Tema_LAB8.exe.config
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\bin\Debug\Tema_LAB8.exe
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\bin\Debug\Tema_LAB8.pdb
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.exe
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.pdb
+C:\Users\Any\OneDrive\Desktop\Informatica - ANUL 3\Sem. I\Grafica pe Calculator\Laborator\Tema_LAB8\obj\Debug\Tema_LAB8.exe.config
